@@ -1,4 +1,7 @@
-## Hi there 👋
+## HIYA! i'm saran (\*^▽^*)
+i'm a freshman at UT dallas studying computer science and organizing hackUTD! on the side i love to draw, write, and edit videos!
+
+*this readme is under construction, so check back soon! O_o*
 
 <!--
 **990s0/990s0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
