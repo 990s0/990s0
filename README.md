@@ -7,6 +7,7 @@
   <h3>▚▚▚▚▚ about me! ▚▚▚▚▚</h3>
   <img src=https://github.com/990s0/990s0/blob/9ee3fd6afca4a0fb39a484d8a14681c2a3d72f86/d3noa17-087539eb-6c33-4fa6-b2cc-01c8a3867067.gif alt="epik faic" width=25>
   <p><i>Hio!</i> I’m <b>Saran,</b> a Computer Science, Data Science, and Cybersecurity student @ <b>UT Dallas!</b> My biggest goal is to fall in love with the process of learning and pursue whatever interests me, regardless of the time it takes or how niche it might be. 💌 Outside of tech, I enjoy drawing, video editing, and hiking!</p>
+  <p>I also LOVE hackathons! Check out my winning projects in my pinned repos!</p>
   <img src=https://github.com/990s0/990s0/blob/9ee3fd6afca4a0fb39a484d8a14681c2a3d72f86/ezgif.com-crop%20(2).gif alt="bf fnf" width=60>
   
   <h3>▚▚▚▚▚ tech stack ▚▚▚▚▚</h3>
@@ -26,6 +27,6 @@
   <br>
   <br>
   
-  `last upd: 6/1/2026`
+  `last upd: 7/11/2026`
 </div>
 
